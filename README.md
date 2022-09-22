@@ -1,7 +1,7 @@
 
 ##Olá mundo! Me chamo Thiago Bastos da Silva!
 
-- 🔭 Atualemnte procurando estágio como desenvolvedor front-end, back-end ou full stack
+- 🔭 Atualmente procurando estágio como desenvolvedor front-end, back-end ou full stack
 - 🌱 Estou estudando nodeJS e React
 
 <div align="center">
