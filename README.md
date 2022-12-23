@@ -1,8 +1,8 @@
 
 ##Olá mundo! Me chamo Thiago Bastos da Silva!
 
-- 🔭 Atualmente procurando estágio como desenvolvedor front-end, back-end ou full stack
-- 🌱 Estou estudando nodeJS e React
+- 🔭 Atualmente estágiario da IPNET
+- 🌱 Trabalhando com NodeJs, Angular e AWS
 
 <div align="center">
   <a href="https://github.com/thiagobs1">
