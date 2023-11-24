@@ -1,8 +1,8 @@
 
 ##Olá mundo! Me chamo Thiago Bastos da Silva!
 
-- 🔭 Atualmente estágiario da IPNET
-- 🌱 Trabalhando com NodeJs, Angular e AWS
+- 🔭 Atualmente DEV júnior da IPNET
+- 🌱 Trabalhando com NodeJs, Python, GCP, e afins...
 
 <div align="center">
   <a href="https://github.com/thiagobs1">
